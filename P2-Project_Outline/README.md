@@ -14,6 +14,9 @@ This project was motivated by the need of a nonprofit organization that wants a 
 - Volunteer tracking: Users will be able to add volunteers to the system, and to assign volunteers to events.
 - Delete events: Users will be able to delete events.
 
+## Trello Board
+https://trello.com/b/ca6ktXt0/final-project-kanban-board
+
 ## Technologies
 
 - Java
