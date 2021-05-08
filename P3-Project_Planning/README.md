@@ -12,7 +12,7 @@ The linked PDF includes four wireframes:
 
 ## Project Tracker
 
-[Event Log Project Tracker](https://www.pivotaltracker.com/n/projects/2157573)
+[resturant_hub1 Project Tracker](https://trello.com/b/ca6ktXt0/final-project-kanban-board)
 
 I added several user stories, which will extend through the current sprint and beyond. Here's a screenshot for posterity:
 
